@@ -1,0 +1,4 @@
+**/.vs/**
+**/x64/**
+LinearExpressions1/obj/Debug LinearExpressions1/obj/LinearExpressions1.csproj.nuget.dgspec.json LinearExpressions1/obj/LinearExpressions1.csproj.nuget.g.props LinearExpressions1/obj/LinearExpressions1.csproj.nuget.g.targets LinearExpressions1/obj/project.assets.json LinearExpressions1/obj/project.nuget.cache LinearExpressions2/obj/Debug LinearExpressions2/obj/LinearExpressions2.csproj.nuget.dgspec.json LinearExpressions2/obj/LinearExpressions2.csproj.nuget.g.props LinearExpressions2/obj/LinearExpressions2.csproj.nuget.g.targets LinearExpressions2/obj/project.assets.json LinearExpressions2/obj/project.nuget.cache
+LinearExpressions1/bin/Debug LinearExpressions2/bin/Debug
